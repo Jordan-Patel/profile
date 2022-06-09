@@ -89,8 +89,9 @@ a:hover {
   box-shadow: 5px 10px 30px rgba(0,0,0,.1);
   margin: 20px 0px;
   text-align: center;
-  border-right: #4b0082;
-  border-style: groove;
+  border-right: 5px solid #4b0082;
+  border-bottom: 5px solid #4b0082;
+
 }
 
 .img-circle {
